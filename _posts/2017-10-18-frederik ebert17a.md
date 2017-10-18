@@ -30,8 +30,12 @@ page: 344-356
 order: 344
 cycles: false
 author:
-- given: Alex X. Lee
-  family: Frederik Ebert
+- given: Frederik
+  family: Ebert
+- given: Chelsea
+  family: Finn
+- given: Alex X.
+  family: Lee
 - given: Sergey
   family: Levine
 date: 2017-10-18
