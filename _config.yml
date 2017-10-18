@@ -1,0 +1,65 @@
+---
+booktitle: Proceedings of the 1st Annual Conference on Robot Learning
+shortname: CoRL
+start: 2017-11-13
+end: 2017-11-15
+url: http://proceedings.mlr.press
+location: Mountain View, California, USA
+year: '2017'
+volume: 78
+published: 2017-10-18
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: corl2017
+month: 0
+cycles: false
+editor:
+- given: Sergey
+  family: Levine
+- given: Vincent
+  family: Vanhoucke
+- given: Ken
+  family: Goldberg
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the 1st Annual Conference on Robot Learning on 13-15 November 2017
+
+  Published as Volume 78 by the Proceedings of Machine Learning Research on 18 October 2017.
+
+  Volume Edited by:
+    Sergey Levine
+    Vincent Vanhoucke
+    Ken Goldberg
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: 13--15 Nov
+baseurl: "/v78"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v78
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: Conference on Robot Learning
+  url: 
+  location: 
+  dates:
+  - 2017-11-13
+  - 2017-11-14
+  - 2017-11-15
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from /Users/mreid/mlresearch/v78/corl2017.bib
