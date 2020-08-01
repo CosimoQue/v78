@@ -4,6 +4,8 @@ shortname: CoRL
 start: 2017-11-13
 end: 2017-11-15
 url: http://proceedings.mlr.press
+author:
+  name: PMLR
 location: Mountain View, California, USA
 year: '2017'
 volume: 78
