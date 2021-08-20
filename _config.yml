@@ -4,7 +4,7 @@ orig_bibfile: "/Users/neil/mlresearch/bibtex.bib"
 shortname: CoRL
 start: 2017-11-13
 end: 2017-11-15
-url: http://proceedings.mlr.press
+url: https://proceedings.mlr.press
 author:
   name: PMLR
 location: Mountain View, California, USA
